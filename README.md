@@ -1,6 +1,5 @@
 # Asteroids
-Game made with Unity
-Unity 2021.1.19f1 (64-bit)
+Game made with Unity 2021.1.19f1 (64-bit)
 
 ![image](https://user-images.githubusercontent.com/55459745/133775947-eb65b7cb-d137-41b4-af53-12881042c288.png)
 
