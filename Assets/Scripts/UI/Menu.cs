@@ -15,6 +15,7 @@ public class Menu : MonoBehaviour
     public void HitPlay()
     {
 
+        AudioListener.pause = false;
         StopAllCoroutines();
         StartCoroutine(Animate());
     }
@@ -22,8 +23,6 @@ public class Menu : MonoBehaviour
     {
         if (Time.timeScale == 0)// isPaused?
         {
-
-            AudioListener.pause = false;
             menu.HitPlay();
         }
 
