@@ -8,6 +8,17 @@ namespace Extended
         {
             value.x = Mathf.Clamp(value.x, Min.x, Max.x);
             value.y = Mathf.Clamp(value.y, Min.y, Max.y);
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             return value;
         }
     }
